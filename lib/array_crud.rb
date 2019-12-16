@@ -31,5 +31,5 @@ puts create_an_arry[0]
 end
 
 def retrieve_last_element_from_array(array)
-puts create_an_array[-1]
+[-1]
 end
