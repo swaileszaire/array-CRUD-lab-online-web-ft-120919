@@ -11,7 +11,7 @@ puts create_an_array<< "Leia"
 end
 
 def add_element_to_start_of_array(array, element)
-puts ("create_an_array", "Ana")
+puts create_an_array.shift("ana")
 end
 
 def remove_element_from_end_of_array(array)
