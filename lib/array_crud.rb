@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-puts create_an_array << "Leia"
+puts create_an_array<< "Leia"
 end
 
 def add_element_to_start_of_array(array, element)
@@ -31,5 +31,5 @@ puts create_an_array[0]
 end
 
 def retrieve_last_element_from_array(array)
-puts create_an_array [-1]
+puts create_an_array[-1]
 end
