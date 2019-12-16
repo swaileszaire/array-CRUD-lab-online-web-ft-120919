@@ -27,9 +27,9 @@ puts create_an_array[2]
 end
 
 def retrieve_first_element_from_array(array)
-puts create_an_arry[0]
+puts create_an_array[0]
 end
 
 def retrieve_last_element_from_array(array)
-puts [-1]
+puts create_an_array [-1]
 end
